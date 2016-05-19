@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WakeUp</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="ringtone_array">
+        <item>Pick a ringtone</item>
+        <item>loudest_ringtone_wow</item>
+    </string-array>
+</resources>
+
